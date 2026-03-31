@@ -1,4 +1,4 @@
-Table: Performance of CamGeo on DL3DV and ScanNet++. Across UNet (SVD) and DiT (CogVideoX) architectures, CamGeo consistently outperforms all the baselines. Through effective 3D geometric distillation, CamGeo achieves superior performance in both zero-shot (out-of-domain) generalization and in-domain precision (e.g., 1.24 RotError).
+Table A: Performance of CamGeo on DL3DV and ScanNet++. Across UNet (SVD) and DiT (CogVideoX) architectures, CamGeo consistently outperforms all the baselines. Through effective 3D geometric distillation, CamGeo achieves superior performance in both zero-shot (out-of-domain) generalization and in-domain precision (e.g., 1.24 RotError).
 | Dataset (Backbone) | Sparsity | Evaluation Setting | Method | RotError ↓ | TransError ↓ | CamMC ↓ | FVD ↓ <br> (Style-GAN) | FVD ↓ <br> (VideoGPT) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **DL3DV** | **1/2** | *Zero-shot (OOD)* | SVD-Base | 3.92 | 14.81 | 17.26 | 165.4 | 186.2 |
