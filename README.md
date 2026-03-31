@@ -1,1 +1,5 @@
 ![fig1](fig1.png)
+![fig2](fig2.png)
+![fig3](fig3.png)
+![fig4](fig4.png)
+![fig5](fig5.png)
